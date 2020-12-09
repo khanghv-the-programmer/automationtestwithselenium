@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [com.khanghv.testng.NewEmptyJUnitTest]" verbose="0">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.khanghv.testng.NewEmptyJUnitTest">
+        <methods>
+          <include name="tearDownMethod"/>
+          <include name="setUpMethod"/>
+          <include name="testLogin" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- com.khanghv.testng.NewEmptyJUnitTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.khanghv.testng.NewEmptyJUnitTest] -->
